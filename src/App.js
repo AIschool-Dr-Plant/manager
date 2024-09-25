@@ -22,7 +22,6 @@ function App() {
         </a>
       </header>
     </div>
-    // <div>{hello} react</div>
   );
 }
 
